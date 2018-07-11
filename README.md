@@ -1,2 +1,3 @@
-# css-image-koala
-image made with css 
+CSS KOALA
+
+Image made using CSS 
